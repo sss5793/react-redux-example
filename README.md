@@ -1,1 +1,1 @@
-# React, Redux 사용 에제 
+## React, Redux 사용 예제 
